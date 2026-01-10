@@ -318,5 +318,5 @@ int main(void) {
 ## Reference Materials
 
 - [Lab 1 PDF Writeup](../pdfs/LAB%201%20Task%20Management%20in%20FreeRTOS%20_2023Fall.pdf)
-- [FreeRTOS Implementation Guide]({{ site.baseurl }}/ece3623/FreeRTOS%20Implementation%20in%20Xilinx%20Vivado%20and%20SDK.pdf)
+- [FreeRTOS Implementation Guide](../pdfs/FreeRTOS%20Implementation%20in%20Xilinx%20Vivado%20and%20SDK.pdf)
 - [Module 3: FreeRTOS Task Management](../modules/module03/)
