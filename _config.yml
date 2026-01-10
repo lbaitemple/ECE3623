@@ -1,0 +1,45 @@
+title: ECE 3623 - Embedded Systems
+description: Comprehensive Embedded Systems Course - Real-Time Programming, RTOS, and Hardware Interfacing
+remote_theme: just-the-docs/just-the-docs
+
+url: https://lbaitemple.github.io
+baseurl: /ECE3623/
+
+plugins:
+  - jekyll-remote-theme
+
+# Include directories
+include:
+  - _includes
+  - docs
+
+# Enable MathJax for mathematical expressions
+# The head_custom.html file in _includes loads MathJax v3
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Color scheme
+color_scheme: light
+
+# Footer
+footer_content: "ECE 3623 Embedded Systems &copy; 2026. Distributed under MIT License."
+
+# Aux links
+aux_links:
+  "Course on GitHub":
+    - "https://github.com/lbaitemple/ECE3623/"
+
+# Collections for organizing modules
+collections:
+  modules:
+    output: true
+    permalink: /:collection/:name/
