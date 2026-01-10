@@ -2,7 +2,7 @@
 title: "Module 13: High-Level Synthesis"
 layout: default
 parent: "Progression 5: Hardware Acceleration"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 1
 ---
 

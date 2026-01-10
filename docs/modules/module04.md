@@ -2,7 +2,7 @@
 title: "Module 4: Mutual Exclusion and Resource Sharing"
 layout: default
 parent: "Progression 2: Synchronization"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 1
 ---
 

@@ -2,7 +2,7 @@
 title: "Module 15: Model-Based Design with Simulink"
 layout: default
 parent: "Progression 5: Hardware Acceleration"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 3
 ---
 

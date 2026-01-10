@@ -2,7 +2,7 @@
 title: "Module 9: ADC and SPI Communication"
 layout: default
 parent: "Progression 3: Timing & Peripherals"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 2
 ---
 

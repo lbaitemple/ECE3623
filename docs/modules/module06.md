@@ -2,7 +2,7 @@
 title: "Module 6: Hardware Interrupts and GIC"
 layout: default
 parent: "Progression 2: Synchronization"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 3
 ---
 

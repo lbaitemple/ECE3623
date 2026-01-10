@@ -2,7 +2,7 @@
 title: "Module 2: Real-Time Operating System (RTOS) Fundamentals"
 layout: default
 parent: "Progression 1: Foundations"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 2
 ---
 

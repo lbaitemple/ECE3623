@@ -2,7 +2,7 @@
 title: "Module 11: Digital-to-Analog Conversion"
 layout: default
 parent: "Progression 4: Signal Processing"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 2
 ---
 

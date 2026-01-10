@@ -2,7 +2,7 @@
 title: "Module 7: Queues and Inter-Task Communication"
 layout: default
 parent: "Progression 2: Synchronization"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 4
 ---
 

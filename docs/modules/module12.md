@@ -2,7 +2,7 @@
 title: "Module 12: Digital Signal Processing"
 layout: default
 parent: "Progression 4: Signal Processing"
-grand_parent: Course Modules
+grand_parent: "Course Modules"
 nav_order: 3
 ---
 
