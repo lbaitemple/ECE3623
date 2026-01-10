@@ -1,8 +1,9 @@
 ---
 title: "Module 9: ADC and SPI Communication"
 layout: default
-parent: Course Modules
-nav_order: 9
+parent: "Progression 3: Timing & Peripherals"
+grand_parent: Course Modules
+nav_order: 2
 ---
 
 # Module 9: ADC and SPI Communication (PmodAD1)

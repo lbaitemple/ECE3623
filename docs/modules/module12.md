@@ -1,8 +1,9 @@
 ---
 title: "Module 12: Digital Signal Processing"
 layout: default
-parent: Course Modules
-nav_order: 12
+parent: "Progression 4: Signal Processing"
+grand_parent: Course Modules
+nav_order: 3
 ---
 
 # Module 12: Digital Signal Processing - FIR and IIR Filters

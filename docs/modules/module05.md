@@ -1,8 +1,9 @@
 ---
 title: "Module 5: Priority Inversion and Inheritance"
 layout: default
-parent: Course Modules
-nav_order: 5
+parent: "Progression 2: Synchronization"
+grand_parent: Course Modules
+nav_order: 2
 ---
 
 # Module 5: Priority Inversion and Inheritance

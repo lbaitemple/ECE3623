@@ -1,8 +1,9 @@
 ---
 title: "Module 10: Analog-to-Digital Conversion"
 layout: default
-parent: Course Modules
-nav_order: 10
+parent: "Progression 4: Signal Processing"
+grand_parent: Course Modules
+nav_order: 1
 ---
 
 # Module 10: Analog-to-Digital Conversion (ADC) and SPI

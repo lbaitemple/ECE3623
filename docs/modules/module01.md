@@ -1,7 +1,8 @@
 ---
 title: "Module 1: Introduction to Embedded SoC and Zynq Architecture"
 layout: default
-parent: Course Modules
+parent: "Progression 1: Foundations"
+grand_parent: Course Modules
 nav_order: 1
 ---
 

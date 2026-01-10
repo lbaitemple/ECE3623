@@ -1,8 +1,9 @@
 ---
 title: "Module 15: Model-Based Design with Simulink"
 layout: default
-parent: Course Modules
-nav_order: 15
+parent: "Progression 5: Hardware Acceleration"
+grand_parent: Course Modules
+nav_order: 3
 ---
 
 # Module 15: Model-Based Design with Simulink for Zynq FPGA

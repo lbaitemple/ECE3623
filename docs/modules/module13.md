@@ -1,8 +1,9 @@
 ---
 title: "Module 13: High-Level Synthesis"
 layout: default
-parent: Course Modules
-nav_order: 13
+parent: "Progression 5: Hardware Acceleration"
+grand_parent: Course Modules
+nav_order: 1
 ---
 
 # Module 13: High-Level Synthesis (HLS) Design Flow

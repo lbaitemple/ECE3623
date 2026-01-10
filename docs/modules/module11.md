@@ -1,8 +1,9 @@
 ---
 title: "Module 11: Digital-to-Analog Conversion"
 layout: default
-parent: Course Modules
-nav_order: 11
+parent: "Progression 4: Signal Processing"
+grand_parent: Course Modules
+nav_order: 2
 ---
 
 # Module 11: Digital-to-Analog Conversion (DAC) and Waveform Generation

@@ -1,8 +1,9 @@
 ---
 title: "Module 14: HLS Directives and Optimization"
 layout: default
-parent: Course Modules
-nav_order: 14
+parent: "Progression 5: Hardware Acceleration"
+grand_parent: Course Modules
+nav_order: 2
 ---
 
 # Module 14: HLS Directives and Optimization

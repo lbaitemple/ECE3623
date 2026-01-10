@@ -1,8 +1,9 @@
 ---
 title: "Module 8: Software Timers and Watchdog"
 layout: default
-parent: Course Modules
-nav_order: 8
+parent: "Progression 3: Timing & Peripherals"
+grand_parent: Course Modules
+nav_order: 1
 ---
 
 # Module 8: Software Timers and Watchdog

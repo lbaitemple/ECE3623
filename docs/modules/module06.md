@@ -1,8 +1,9 @@
 ---
 title: "Module 6: Hardware Interrupts and GIC"
 layout: default
-parent: Course Modules
-nav_order: 6
+parent: "Progression 2: Synchronization"
+grand_parent: Course Modules
+nav_order: 3
 ---
 
 # Module 6: Hardware Interrupts and the Generic Interrupt Controller

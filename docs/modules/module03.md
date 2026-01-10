@@ -1,7 +1,8 @@
 ---
 title: "Module 3: FreeRTOS Task Management"
 layout: default
-parent: Course Modules
+parent: "Progression 1: Foundations"
+grand_parent: Course Modules
 nav_order: 3
 ---
 
