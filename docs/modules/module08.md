@@ -607,7 +607,7 @@ FreeRTOS software timers enable periodic or one-shot execution of callback funct
 
 ## Next Module
 
-[Module 9: ADC and SPI Communication (PmodAD1) →](../module09/)
+[Module 9: ADC and SPI Communication (PmodAD1) →]({{ site.baseurl }}/docs/modules/module09/)
 
 ```c
 /* Multiple tasks synchronize at a point */
@@ -709,4 +709,4 @@ Inter-task communication is essential for coordinated multi-task systems. Queues
 
 ## Next Module
 
-[Module 9: Serial Communication →](../module09/)
+[Module 9: Serial Communication →]({{ site.baseurl }}/docs/modules/module09/)

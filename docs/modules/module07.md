@@ -560,7 +560,7 @@ Queues are the primary mechanism for thread-safe data transfer between FreeRTOS 
 
 ## Next Module
 
-[Module 8: Software Timers and Watchdog →](../module08/)
+[Module 8: Software Timers and Watchdog →]({{ site.baseurl }}/docs/modules/module08/)
 
 ---
 
@@ -615,4 +615,4 @@ Interrupts enable responsive event handling without wasting CPU cycles on pollin
 
 ## Next Module
 
-[Module 8: Inter-Task Communication →](../module08/)
+[Module 8: Inter-Task Communication →]({{ site.baseurl }}/docs/modules/module08/)

@@ -546,7 +546,7 @@ Vivado HLS transforms C/C++ algorithms into hardware by: (1) validating the algo
 
 ## Next Module
 
-[Module 14: HLS Directives and Optimization →](../module14/)
+[Module 14: HLS Directives and Optimization →]({{ site.baseurl }}/docs/modules/module14/)
 }
 ```
 
@@ -875,4 +875,4 @@ High-Level Synthesis bridges software algorithms and hardware implementation, dr
 
 ## Next Module
 
-[Module 14: System Integration →](../module14/)
+[Module 14: System Integration →]({{ site.baseurl }}/docs/modules/module14/)

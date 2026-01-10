@@ -568,7 +568,7 @@ This module covered hardware interrupts and the Zynq Generic Interrupt Controlle
 
 ## Next Module
 
-[Module 7: Queues and Inter-Task Communication →](../module07/)
+[Module 7: Queues and Inter-Task Communication →]({{ site.baseurl }}/docs/modules/module07/)
             task3_alive = 0;
         }
         /* If any flag not set, don't kick - system will reset */
@@ -654,4 +654,4 @@ Timer-based measurements enable precise timing analysis of external signals and 
 
 ## Next Module
 
-[Module 7: Interrupts →](../module07/)
+[Module 7: Interrupts →]({{ site.baseurl }}/docs/modules/module07/)

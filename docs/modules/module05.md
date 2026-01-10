@@ -430,7 +430,7 @@ Priority inversion is a subtle but dangerous problem where high-priority tasks a
 
 ## Next Module
 
-[Module 6: Hardware Interrupts and GIC →](../module06/)
+[Module 6: Hardware Interrupts and GIC →]({{ site.baseurl }}/docs/modules/module06/)
 
 2. Calculate the prescaler and count value needed for a 20ms interrupt period with a 100 MHz clock and 16-bit counter.
 
@@ -450,4 +450,4 @@ Counter-timers are fundamental hardware peripherals for embedded systems. We exp
 
 ## Next Module
 
-[Module 6: Timer Measurement & Watchdog →](../module06/)
+[Module 6: Timer Measurement & Watchdog →]({{ site.baseurl }}/docs/modules/module06/)

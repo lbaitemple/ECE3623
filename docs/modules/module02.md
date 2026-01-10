@@ -379,4 +379,4 @@ This module established the foundations of real-time systems, emphasizing that c
 
 ## Next Module
 
-[Module 3: FreeRTOS Task Management →](../module03/)
+[Module 3: FreeRTOS Task Management →]({{ site.baseurl }}/docs/modules/module03/)

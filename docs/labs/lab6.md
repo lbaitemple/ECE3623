@@ -20,7 +20,7 @@ nav_order: 6
 
 In this lab, you will create a function generator using the PmodDA2 digital-to-analog converter. You will generate sine, square, triangle, and sawtooth waveforms at various frequencies using lookup tables and DDS (Direct Digital Synthesis) techniques.
 
-**Related Modules**: [Module 9: ADC and SPI Communication](../modules/module09/), [Module 11: Digital-to-Analog Conversion](../modules/module11/)
+**Related Modules**: [Module 9: ADC and SPI Communication]({{ site.baseurl }}/docs/modules/module09/), [Module 11: Digital-to-Analog Conversion]({{ site.baseurl }}/docs/modules/module11/)
 
 ---
 
@@ -498,5 +498,5 @@ void vDualChannelTask(void *pvParameters) {
 
 - [Lab 6 Writeup](../pdfs/LAB%206%20PmodDA2%20-%20Function%20Generator.pdf)
 - [PmodAD1 and PmodDA2 Guide](../pdfs/PmodAD1%20and%20PmodDA2.pdf)
-- [Module 9: ADC and SPI Communication](../modules/module09/)
-- [Module 11: Digital-to-Analog Conversion](../modules/module11/)
+- [Module 9: ADC and SPI Communication]({{ site.baseurl }}/docs/modules/module09/)
+- [Module 11: Digital-to-Analog Conversion]({{ site.baseurl }}/docs/modules/module11/)
