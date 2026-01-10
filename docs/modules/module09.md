@@ -520,4 +520,4 @@ SPI is a high-speed synchronous protocol ideal for ADC communication. The PmodAD
 
 ## Next Module
 
-[Module 10: DAC and Analog Output (PmodDA2) →]({{ site.baseurl }}/docs/modules/module10/)
+[Module 10: DAC and Analog Output (PmodDA2) →]({{ site.baseurl }}/docs/modules/module10.html)

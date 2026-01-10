@@ -429,7 +429,7 @@ ADCs convert analog signals to digital through sampling and quantization. The Ny
 
 ## Next Module
 
-[Module 11: Digital-to-Analog Conversion (DAC) →]({{ site.baseurl }}/docs/modules/module11/)
+[Module 11: Digital-to-Analog Conversion (DAC) →]({{ site.baseurl }}/docs/modules/module11.html)
 Original signal (10 kHz):  ∿∿∿∿∿∿∿∿
 Sampled at 8 kHz:          • • • • • • • •
 Reconstructed (2 kHz!):    ∿  ∿  ∿  ∿
@@ -708,4 +708,4 @@ ADCs convert analog signals to digital values for processing. Key concepts inclu
 
 ## Next Module
 
-[Module 11: Digital-to-Analog Conversion →]({{ site.baseurl }}/docs/modules/module11/)
+[Module 11: Digital-to-Analog Conversion →]({{ site.baseurl }}/docs/modules/module11.html)

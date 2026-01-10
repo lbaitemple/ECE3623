@@ -316,4 +316,4 @@ This module introduced the Zynq-7000 AP SoC architecture, emphasizing the tight 
 
 ## Next Module
 
-[Module 2: Real-Time Operating System (RTOS) Fundamentals →]({{ site.baseurl }}/docs/modules/module02/)
+[Module 2: Real-Time Operating System (RTOS) Fundamentals →]({{ site.baseurl }}/docs/modules/module02.html)

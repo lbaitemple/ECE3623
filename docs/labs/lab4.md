@@ -20,7 +20,7 @@ nav_order: 4
 
 In this lab, you will implement FreeRTOS software timers for periodic operations and configure the Zynq hardware watchdog timer for system reliability. You will create timer callbacks, implement watchdog kicking strategies, and understand timing-critical operations.
 
-**Related Modules**: [Module 8: Software Timers and Watchdog]({{ site.baseurl }}/docs/modules/module08/), [Module 9: ADC and SPI]({{ site.baseurl }}/docs/modules/module09/)
+**Related Modules**: [Module 8: Software Timers and Watchdog]({{ site.baseurl }}/docs/modules/module08.html), [Module 9: ADC and SPI]({{ site.baseurl }}/docs/modules/module09.html)
 
 ---
 
@@ -422,6 +422,6 @@ void vWatchdogTimerCallback(TimerHandle_t xTimer) {
 
 ## Reference Materials
 
-- [Module 8: Software Timers and Watchdog]({{ site.baseurl }}/docs/modules/module08/)
+- [Module 8: Software Timers and Watchdog]({{ site.baseurl }}/docs/modules/module08.html)
 - [Introduction to Watchdog Timers]({{ site.baseurl }}/ece3623/Introduction%20to%20Watchdog%20Timers.pdf)
 - [FreeRTOS Timer API](https://www.freertos.org/FreeRTOS-Software-Timer-API-Functions.html)

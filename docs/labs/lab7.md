@@ -20,7 +20,7 @@ nav_order: 7
 
 In this lab, you will implement digital filters on the Zynq processor to process real-time audio/signal data. You will design and implement FIR (Finite Impulse Response) and IIR (Infinite Impulse Response) filters, then test them with the PmodAD1 and PmodDA2 modules.
 
-**Related Modules**: [Module 10: Analog-to-Digital Conversion]({{ site.baseurl }}/docs/modules/module10/), [Module 12: Digital Signal Processing]({{ site.baseurl }}/docs/modules/module12/)
+**Related Modules**: [Module 10: Analog-to-Digital Conversion]({{ site.baseurl }}/docs/modules/module10.html), [Module 12: Digital Signal Processing]({{ site.baseurl }}/docs/modules/module12.html)
 
 ---
 
@@ -504,6 +504,6 @@ int32_t FIR_ProcessOptimized(int16_t input) {
 ## Reference Materials
 
 - [Lab 7 Writeup](../pdfs/LAB%207%20Digital%20Filters.pdf)
-- [Module 12: Digital Signal Processing]({{ site.baseurl }}/docs/modules/module12/)
+- [Module 12: Digital Signal Processing]({{ site.baseurl }}/docs/modules/module12.html)
 - [Understanding Digital Signal Processing (Lyons)](https://www.analog.com/en/education/landing-pages/professor-teaching-resources/dsp-book-third-edition.html)
 - [CMSIS-DSP Library](https://arm-software.github.io/CMSIS-DSP/latest/)

@@ -423,7 +423,7 @@ FIR filters use weighted sums of input samples and are always stable with possib
 
 ## Next Module
 
-[Module 13: High-Level Synthesis (HLS) Design Flow →]({{ site.baseurl }}/docs/modules/module13/)
+[Module 13: High-Level Synthesis (HLS) Design Flow →]({{ site.baseurl }}/docs/modules/module13.html)
       ...         ...
        │           │
       [z⁻¹]──►[bN-1]┘
@@ -745,4 +745,4 @@ Digital filters are essential tools for signal processing in embedded systems. F
 
 ## Next Module
 
-[Module 13: High-Level Synthesis →]({{ site.baseurl }}/docs/modules/module13/)
+[Module 13: High-Level Synthesis →]({{ site.baseurl }}/docs/modules/module13.html)

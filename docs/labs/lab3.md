@@ -20,7 +20,7 @@ nav_order: 3
 
 In this lab, you will implement producer-consumer patterns using FreeRTOS queues. You will create tasks that communicate through queues, transferring data safely between producers and consumers without shared variable issues.
 
-**Related Modules**: [Module 7: Queues and Inter-Task Communication]({{ site.baseurl }}/docs/modules/module07/), [Module 8: Software Timers]({{ site.baseurl }}/docs/modules/module08/)
+**Related Modules**: [Module 7: Queues and Inter-Task Communication]({{ site.baseurl }}/docs/modules/module07.html), [Module 8: Software Timers]({{ site.baseurl }}/docs/modules/module08.html)
 
 ---
 
@@ -376,5 +376,5 @@ void vMonitorTask(void *pvParameters) {
 ## Reference Materials
 
 - [Lab 3 PDF Writeup](../pdfs/LAB%203%20FreeRTOS%20Data%20Queue%20on%20Zybo_2024FALL.pdf)
-- [Module 7: Queues and Inter-Task Communication]({{ site.baseurl }}/docs/modules/module07/)
+- [Module 7: Queues and Inter-Task Communication]({{ site.baseurl }}/docs/modules/module07.html)
 - [FreeRTOS Queue API Reference](https://www.freertos.org/a00018.html)

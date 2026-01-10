@@ -475,7 +475,7 @@ DACs enable digital systems to generate analog outputs for waveform generation, 
 
 ## Next Module
 
-[Module 12: Digital Signal Processing - FIR and IIR Filters →]({{ site.baseurl }}/docs/modules/module12/)
+[Module 12: Digital Signal Processing - FIR and IIR Filters →]({{ site.baseurl }}/docs/modules/module12.html)
 | Update Rate | Up to 1 MSPS |
 | Interface | SPI |
 | Channels | 2 (DA2 has two DACs) |
@@ -804,4 +804,4 @@ DACs enable digital systems to produce analog outputs for waveform generation, a
 
 ## Next Module
 
-[Module 12: Digital Filtering →]({{ site.baseurl }}/docs/modules/module12/)
+[Module 12: Digital Filtering →]({{ site.baseurl }}/docs/modules/module12.html)

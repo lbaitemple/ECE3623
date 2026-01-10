@@ -20,7 +20,7 @@ nav_order: 2
 
 In this lab, you will configure the AXI Interrupt Controller in Vivado and implement interrupt-driven programming on the Zybo Z7. You will connect GPIO buttons to generate interrupts and handle them using the Generic Interrupt Controller (GIC).
 
-**Related Modules**: [Module 6: Hardware Interrupts and GIC]({{ site.baseurl }}/docs/modules/module06/), [Module 7: Queues]({{ site.baseurl }}/docs/modules/module07/)
+**Related Modules**: [Module 6: Hardware Interrupts and GIC]({{ site.baseurl }}/docs/modules/module06.html), [Module 7: Queues]({{ site.baseurl }}/docs/modules/module07.html)
 
 ---
 
@@ -332,5 +332,5 @@ void vSwitchTask(void *pvParameters) {
 ## Reference Materials
 
 - [Lab 2 PDF Writeup](../pdfs/LAB%202%20Vivado%20AXI%20Interrupt%20.pdf)
-- [Module 6: Hardware Interrupts]({{ site.baseurl }}/docs/modules/module06/)
+- [Module 6: Hardware Interrupts]({{ site.baseurl }}/docs/modules/module06.html)
 - [Xilinx Interrupt Controller Documentation](https://www.xilinx.com/support/documentation/ip_documentation/axi_intc/v4_1/pg099-axi-intc.pdf)

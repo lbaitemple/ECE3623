@@ -498,7 +498,7 @@ This module covered mutual exclusion techniques for protecting shared resources 
 
 ## Next Module
 
-[Module 5: Priority Inversion and Inheritance →]({{ site.baseurl }}/docs/modules/module05/)                xil_printf("Worker suspended\r\n");
+[Module 5: Priority Inversion and Inheritance →]({{ site.baseurl }}/docs/modules/module05.html)                xil_printf("Worker suspended\r\n");
             }
         }
         vTaskDelay(pdMS_TO_TICKS(50));  /* Debounce */
@@ -596,4 +596,4 @@ Task management is fundamental to FreeRTOS applications. We covered task creatio
 
 ## Next Module
 
-[Module 5: Counter-Timers →]({{ site.baseurl }}/docs/modules/module05/)
+[Module 5: Counter-Timers →]({{ site.baseurl }}/docs/modules/module05.html)

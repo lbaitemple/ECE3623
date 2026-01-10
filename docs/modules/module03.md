@@ -509,4 +509,4 @@ This module covered FreeRTOS task management fundamentals. Tasks exist in four s
 
 ## Next Module
 
-[Module 4: Mutual Exclusion and Resource Sharing →]({{ site.baseurl }}/docs/modules/module04/)
+[Module 4: Mutual Exclusion and Resource Sharing →]({{ site.baseurl }}/docs/modules/module04.html)

@@ -20,7 +20,7 @@ nav_order: 1
 
 In this lab, you will implement and explore FreeRTOS task management on the Zybo Z7 board. You will create multiple tasks with different priorities, observe scheduling behavior, and understand how the RTOS manages concurrent execution.
 
-**Related Modules**: [Module 2: RTOS Fundamentals]({{ site.baseurl }}/docs/modules/module02/), [Module 3: FreeRTOS Task Management]({{ site.baseurl }}/docs/modules/module03/)
+**Related Modules**: [Module 2: RTOS Fundamentals]({{ site.baseurl }}/docs/modules/module02.html), [Module 3: FreeRTOS Task Management]({{ site.baseurl }}/docs/modules/module03.html)
 
 ---
 
@@ -319,4 +319,4 @@ int main(void) {
 
 - [Lab 1 PDF Writeup](../pdfs/LAB%201%20Task%20Management%20in%20FreeRTOS%20_2023Fall.pdf)
 - [FreeRTOS Implementation Guide](../pdfs/FreeRTOS%20Implementation%20in%20Xilinx%20Vivado%20and%20SDK.pdf)
-- [Module 3: FreeRTOS Task Management]({{ site.baseurl }}/docs/modules/module03/)
+- [Module 3: FreeRTOS Task Management]({{ site.baseurl }}/docs/modules/module03.html)
