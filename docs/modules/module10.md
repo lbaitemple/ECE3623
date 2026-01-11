@@ -667,7 +667,7 @@ In this lab, you will:
 3. Sample a signal at fixed rate
 4. Display results via UART
 
-**Lab Materials**: [Lab 5 - PmodAD1 Project]({{ site.baseurl }}/ece3623/LAB%205%20PmodAD1%20Vivado%20SDK%20Project(2023_Fall).docx)
+**Lab Materials**: [Lab 5 - PmodAD1 Project]({{ site.baseurl }}/docs/pdfs/LAB%205%20PmodAD1%20Vivado%20SDK%20Project(2023_Fall).pdf)
 
 ---
 

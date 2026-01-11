@@ -418,7 +418,7 @@ void AnalyzeSamples(uint16_t *buffer, int count) {
 
 ## Reference Materials
 
-- [Lab 5 Writeup](../pdfs/LAB%205%20PmodAD1%20Vivado%20SDK%20Project(2023_Fall).docx)
+- [Lab 5 Writeup](../pdfs/LAB%205%20PmodAD1%20Vivado%20SDK%20Project(2023_Fall).pdf)
 - [PmodAD1 and PmodDA2 Guide](../pdfs/PmodAD1%20and%20PmodDA2.pdf)
 - [Zynq SPI Peripherals](../pdfs/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
 - [Module 9: ADC and SPI Communication]({{ site.baseurl }}/docs/modules/module09.html)
