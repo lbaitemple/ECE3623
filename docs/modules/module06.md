@@ -534,9 +534,9 @@ FreeRTOS requires interrupts that call FreeRTOS API to have priority ≤ `config
 
 ## Lecture Materials
 
-- [Interrupts and GIC]({{ site.baseurl }}/ece3623/Interrupts.pdf)
-- [Week 6 Slides]({{ site.baseurl }}/ece3623/Week%206.pdf)
-- [Week 6 Recap]({{ site.baseurl }}/ece3623/Week%206-R.pdf)
+- [Interrupts and GIC]({{ site.baseurl }}/docs/pdfs/Interrupts.pdf)
+- [Week 6 Slides]({{ site.baseurl }}/docs/pdfs/Week%206.pdf)
+- [Week 6 Recap]({{ site.baseurl }}/docs/pdfs/Week%206-R.pdf)
 
 ---
 
@@ -618,9 +618,9 @@ Only accept kicks within a time window to detect tasks running too fast or too s
 
 ## Lecture Materials
 
-- [Introduction to Timer Based Measurement]({{ site.baseurl }}/ece3623/Introduction%20to%20Timer%20Based%20Measurement.pdf)
-- [Introduction to Watchdog Timers]({{ site.baseurl }}/ece3623/Introduction%20to%20Watchdog%20Timers.pdf)
-- [Week 6 Slides]({{ site.baseurl }}/ece3623/Week%206-T.pdf)
+- [Introduction to Timer Based Measurement]({{ site.baseurl }}/docs/pdfs/Introduction%20to%20Timer%20Based%20Measurement.pdf)
+- [Introduction to Watchdog Timers]({{ site.baseurl }}/docs/pdfs/Introduction%20to%20Watchdog%20Timers.pdf)
+- [Week 6 Slides]({{ site.baseurl }}/docs/pdfs/Week%206-T.pdf)
 
 ---
 

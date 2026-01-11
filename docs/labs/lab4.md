@@ -423,5 +423,5 @@ void vWatchdogTimerCallback(TimerHandle_t xTimer) {
 ## Reference Materials
 
 - [Module 8: Software Timers and Watchdog]({{ site.baseurl }}/docs/modules/module08.html)
-- [Introduction to Watchdog Timers]({{ site.baseurl }}/ece3623/Introduction%20to%20Watchdog%20Timers.pdf)
+- [Introduction to Watchdog Timers]({{ site.baseurl }}/docs/pdfs/Introduction%20to%20Watchdog%20Timers.pdf)
 - [FreeRTOS Timer API](https://www.freertos.org/FreeRTOS-Software-Timer-API-Functions.html)

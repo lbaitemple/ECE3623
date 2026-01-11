@@ -487,9 +487,9 @@ void output_stage(pixel_stream &in, pixel_stream &out) {
 
 ## Lecture Materials
 
-- [Week 14 - HLS Optimization]({{ site.baseurl }}/ece3623/Week%2014%20HLS%20Optimization.pdf)
-- [HLS Directives Reference]({{ site.baseurl }}/ece3623/HLS%20Directives.pdf)
-- [Performance Optimization Guide]({{ site.baseurl }}/ece3623/HLS%20Performance.pdf)
+- [Week 14 - HLS Optimization]({{ site.baseurl }}/docs/pdfs/Week%2014%20HLS%20Optimization.pdf)
+- [HLS Directives Reference]({{ site.baseurl }}/docs/pdfs/HLS%20Directives.pdf)
+- [Performance Optimization Guide]({{ site.baseurl }}/docs/pdfs/HLS%20Performance.pdf)
 
 ---
 
@@ -893,8 +893,8 @@ Design and implement a complete embedded system that:
 
 ## Lecture Materials
 
-- [The Zynq Book Tutorials]({{ site.baseurl }}/ece3623/The_Zynq_Book_Tutorials.pdf)
-- [Exam 2 Review]({{ site.baseurl }}/ece3623/Exam%202%20Review.pdf)
+- [The Zynq Book Tutorials]({{ site.baseurl }}/docs/pdfs/The_Zynq_Book_Tutorials.pdf)
+- [Exam 2 Review]({{ site.baseurl }}/docs/pdfs/Exam%202%20Review.pdf)
 - [Final Review]({{ site.baseurl }}/ece3623/Final%20Review.docx)
 
 ---

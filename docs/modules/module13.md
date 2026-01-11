@@ -506,9 +506,9 @@ int main() {
 
 ## Lecture Materials
 
-- [Week 13 - HLS Introduction]({{ site.baseurl }}/ece3623/Week%2013%20HLS.pdf)
-- [Vivado HLS Tutorial]({{ site.baseurl }}/ece3623/Vivado_HLS_Tutorial.pdf)
-- [HLS Design Flow]({{ site.baseurl }}/ece3623/HLS%20Design%20Flow.pdf)
+- [Week 13 - HLS Introduction]({{ site.baseurl }}/docs/pdfs/Week%2013%20HLS.pdf)
+- [Vivado HLS Tutorial]({{ site.baseurl }}/docs/pdfs/Vivado_HLS_Tutorial.pdf)
+- [HLS Design Flow]({{ site.baseurl }}/docs/pdfs/HLS%20Design%20Flow.pdf)
 
 ---
 

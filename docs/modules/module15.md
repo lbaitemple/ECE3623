@@ -702,9 +702,9 @@ The **Xilinx SoC Blockset** provides additional blocks for tight Zynq integratio
 
 ## Lecture Materials
 
-- [Algorithm to FPGA Hardware Design Flow]({{ site.baseurl }}/ece3623/Algorithm_to_FPGA_Hardware_Design_Flow.pdf)
-- [Week 12 HLS Slides]({{ site.baseurl }}/ece3623/Week%2012%20M-W-HLS.pptx)
-- [The Zynq Book Tutorials]({{ site.baseurl }}/ece3623/The_Zynq_Book_Tutorials.pdf)
+- [Algorithm to FPGA Hardware Design Flow]({{ site.baseurl }}/docs/pdfs/Algorithm_to_FPGA_Hardware_Design_Flow.pdf)
+- [Week 12 HLS Slides]({{ site.baseurl }}/docs/pdfs/Week%2012%20M-W-HLS.pptx)
+- [The Zynq Book Tutorials]({{ site.baseurl }}/docs/pdfs/The_Zynq_Book_Tutorials.pdf)
 
 ---
 

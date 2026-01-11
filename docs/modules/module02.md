@@ -345,9 +345,9 @@ void PeriodicTask(void *param) {
 
 ## Lecture Materials
 
-- [FreeRTOS Introduction]({{ site.baseurl }}/ece3623/FreeRTOS.pdf)
-- [Week 2 Slides]({{ site.baseurl }}/ece3623/Week%202.pdf)
-- [Week 2 Recap]({{ site.baseurl }}/ece3623/Week%202-R.pdf)
+- [FreeRTOS Introduction]({{ site.baseurl }}/docs/pdfs/FreeRTOS.pdf)
+- [Week 2 Slides]({{ site.baseurl }}/docs/pdfs/Week%202.pdf)
+- [Week 2 Recap]({{ site.baseurl }}/docs/pdfs/Week%202-R.pdf)
 
 ---
 

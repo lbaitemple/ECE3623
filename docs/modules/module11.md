@@ -435,9 +435,9 @@ $$R = \frac{1}{2\pi \times 10000 \times 0.1 \times 10^{-6}} = 159 \Omega$$
 
 ## Lecture Materials
 
-- [Week 11 Slides]({{ site.baseurl }}/ece3623/Week%2011.pdf)
-- [PmodAD1 and PmodDA2]({{ site.baseurl }}/ece3623/PmodAD1%20and%20PmodDA2.pdf)
-- [Waveform Generation]({{ site.baseurl }}/ece3623/Waveform%20Generation.pdf)
+- [Week 11 Slides]({{ site.baseurl }}/docs/pdfs/Week%2011.pdf)
+- [PmodAD1 and PmodDA2]({{ site.baseurl }}/docs/pdfs/PmodAD1%20and%20PmodDA2.pdf)
+- [Waveform Generation]({{ site.baseurl }}/docs/pdfs/Waveform%20Generation.pdf)
 
 ---
 
@@ -763,14 +763,14 @@ In this lab, you will:
 3. Implement frequency and amplitude control
 4. Build a complete function generator
 
-**Lab Materials**: [Lab 6 - Function Generator]({{ site.baseurl }}/ece3623/LAB%206%20PmodDA2%20-%20Function%20Generator.pdf)
+**Lab Materials**: [Lab 6 - Function Generator]({{ site.baseurl }}/docs/pdfs/LAB%206%20PmodDA2%20-%20Function%20Generator.pdf)
 
 ---
 
 ## Lecture Materials
 
-- [PmodAD1 and PmodDA2]({{ site.baseurl }}/ece3623/PmodAD1%20and%20PmodDA2.pdf)
-- [Zynq SPI Peripherals ADC & DAC]({{ site.baseurl }}/ece3623/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
+- [PmodAD1 and PmodDA2]({{ site.baseurl }}/docs/pdfs/PmodAD1%20and%20PmodDA2.pdf)
+- [Zynq SPI Peripherals ADC & DAC]({{ site.baseurl }}/docs/pdfs/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
 
 ---
 

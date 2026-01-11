@@ -526,9 +526,9 @@ void vMultiQueueTask(void *param) {
 
 ## Lecture Materials
 
-- [FreeRTOS Queue Management]({{ site.baseurl }}/ece3623/FreeRTOS.pdf)
-- [Week 7 Slides]({{ site.baseurl }}/ece3623/Week%207.pdf)
-- [Week 7 Recap]({{ site.baseurl }}/ece3623/Week%207-R.pdf)
+- [FreeRTOS Queue Management]({{ site.baseurl }}/docs/pdfs/FreeRTOS.pdf)
+- [Week 7 Slides]({{ site.baseurl }}/docs/pdfs/Week%207.pdf)
+- [Week 7 Recap]({{ site.baseurl }}/docs/pdfs/Week%207-R.pdf)
 
 ---
 
@@ -574,14 +574,14 @@ In this lab, you will:
 3. Write an ISR for button press
 4. Implement LED toggle on interrupt
 
-**Lab Materials**: [Lab 2 - AXI Interrupt]({{ site.baseurl }}/ece3623/LAB%202%20Vivado%20AXI%20Interrupt%20.pdf)
+**Lab Materials**: [Lab 2 - AXI Interrupt]({{ site.baseurl }}/docs/pdfs/LAB%202%20Vivado%20AXI%20Interrupt%20.pdf)
 
 ---
 
 ## Lecture Materials
 
-- [Week 5 Slides]({{ site.baseurl }}/ece3623/Week%205-T.pdf)
-- [Week 5 Additional]({{ site.baseurl }}/ece3623/Week%205-T%20(1).pdf)
+- [Week 5 Slides]({{ site.baseurl }}/docs/pdfs/Week%205-T.pdf)
+- [Week 5 Additional]({{ site.baseurl }}/docs/pdfs/Week%205-T%20(1).pdf)
 
 ---
 

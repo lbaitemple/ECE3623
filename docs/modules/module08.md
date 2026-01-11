@@ -573,9 +573,9 @@ void init_system(void) {
 
 ## Lecture Materials
 
-- [FreeRTOS Software Timers]({{ site.baseurl }}/ece3623/FreeRTOS.pdf)
-- [Week 8 Slides]({{ site.baseurl }}/ece3623/Week%208.pdf)
-- [Watchdog Timer Design]({{ site.baseurl }}/ece3623/Watchdog.pdf)
+- [FreeRTOS Software Timers]({{ site.baseurl }}/docs/pdfs/FreeRTOS.pdf)
+- [Week 8 Slides]({{ site.baseurl }}/docs/pdfs/Week%208.pdf)
+- [Watchdog Timer Design]({{ site.baseurl }}/docs/pdfs/Watchdog.pdf)
 
 ---
 
@@ -669,13 +669,13 @@ In this lab, you will:
 3. Use semaphores for synchronization
 4. Observe queue behavior with different task priorities
 
-**Lab Materials**: [Lab 3 - FreeRTOS Data Queue]({{ site.baseurl }}/ece3623/LAB%203%20FreeRTOS%20Data%20Queue%20on%20Zybo_2024FALL.pdf)
+**Lab Materials**: [Lab 3 - FreeRTOS Data Queue]({{ site.baseurl }}/docs/pdfs/LAB%203%20FreeRTOS%20Data%20Queue%20on%20Zybo_2024FALL.pdf)
 
 ---
 
 ## Lecture Materials
 
-- [Week 6 Slides]({{ site.baseurl }}/ece3623/Week%206-T.pdf)
+- [Week 6 Slides]({{ site.baseurl }}/docs/pdfs/Week%206-T.pdf)
 
 ---
 

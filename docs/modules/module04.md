@@ -464,9 +464,9 @@ void InnerFunction(void) {
 
 ## Lecture Materials
 
-- [FreeRTOS Resource Management]({{ site.baseurl }}/ece3623/FreeRTOS.pdf)
-- [Week 4 Slides]({{ site.baseurl }}/ece3623/Week%204.pdf)
-- [Week 4 Recap]({{ site.baseurl }}/ece3623/Week%204-R.pdf)
+- [FreeRTOS Resource Management]({{ site.baseurl }}/docs/pdfs/FreeRTOS.pdf)
+- [Week 4 Slides]({{ site.baseurl }}/docs/pdfs/Week%204.pdf)
+- [Week 4 Recap]({{ site.baseurl }}/docs/pdfs/Week%204-R.pdf)
 
 ---
 
@@ -555,14 +555,14 @@ In this lab, you will:
 3. Implement periodic tasks using `vTaskDelayUntil()`
 4. Monitor task execution with UART output
 
-**Lab Materials**: [Lab 1 - Task Management]({{ site.baseurl }}/ece3623/LAB%201%20Task%20Management%20in%20FreeRTOS%20_2023Fall.pdf)
+**Lab Materials**: [Lab 1 - Task Management]({{ site.baseurl }}/docs/pdfs/LAB%201%20Task%20Management%20in%20FreeRTOS%20_2023Fall.pdf)
 
 ---
 
 ## Lecture Materials
 
-- [Week 4 Slides]({{ site.baseurl }}/ece3623/Week%204-T.pdf)
-- [Exam 1 Review Session]({{ site.baseurl }}/ece3623/Week%204-F_%20Review%20Session%20for%20Exam%201-1.pdf)
+- [Week 4 Slides]({{ site.baseurl }}/docs/pdfs/Week%204-T.pdf)
+- [Exam 1 Review Session]({{ site.baseurl }}/docs/pdfs/Week%204-F_%20Review%20Session%20for%20Exam%201-1.pdf)
 
 ---
 

@@ -389,9 +389,9 @@ Use R1 = 20kΩ, R2 = 10kΩ
 
 ## Lecture Materials
 
-- [Week 10 Slides]({{ site.baseurl }}/ece3623/Week%2010.pdf)
-- [PmodAD1 and PmodDA2]({{ site.baseurl }}/ece3623/PmodAD1%20and%20PmodDA2.pdf)
-- [Zynq SPI Peripherals ADC & DAC]({{ site.baseurl }}/ece3623/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
+- [Week 10 Slides]({{ site.baseurl }}/docs/pdfs/Week%2010.pdf)
+- [PmodAD1 and PmodDA2]({{ site.baseurl }}/docs/pdfs/PmodAD1%20and%20PmodDA2.pdf)
+- [Zynq SPI Peripherals ADC & DAC]({{ site.baseurl }}/docs/pdfs/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
 
 ---
 
@@ -673,8 +673,8 @@ In this lab, you will:
 
 ## Lecture Materials
 
-- [PmodAD1 and PmodDA2]({{ site.baseurl }}/ece3623/PmodAD1%20and%20PmodDA2.pdf)
-- [Zynq SPI Peripherals ADC & DAC]({{ site.baseurl }}/ece3623/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
+- [PmodAD1 and PmodDA2]({{ site.baseurl }}/docs/pdfs/PmodAD1%20and%20PmodDA2.pdf)
+- [Zynq SPI Peripherals ADC & DAC]({{ site.baseurl }}/docs/pdfs/Zynq%20SPI%20Peripherals%20ADC%20%26%20DAC.pdf)
 
 ---
 

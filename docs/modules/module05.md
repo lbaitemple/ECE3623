@@ -396,8 +396,8 @@ An alternative to priority inheritance:
 
 ## Lecture Materials
 
-- [Priority Inversion and Inheritance]({{ site.baseurl }}/ece3623/FreeRTOS.pdf)
-- [Week 5 Slides]({{ site.baseurl }}/ece3623/Week%205.pdf)
+- [Priority Inversion and Inheritance]({{ site.baseurl }}/docs/pdfs/FreeRTOS.pdf)
+- [Week 5 Slides]({{ site.baseurl }}/docs/pdfs/Week%205.pdf)
 - [Mars Pathfinder Case Study](https://www.cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_version.html)
 
 ---

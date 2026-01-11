@@ -281,10 +281,10 @@ Vitis handles software development:
 
 ## Lecture Materials
 
-- [Embedded System Introduction]({{ site.baseurl }}/ece3623/Embedded_System.pdf)
-- [Week 1 Slides]({{ site.baseurl }}/ece3623/Week%201.pdf)
-- [Week 1 Recap]({{ site.baseurl }}/ece3623/Week%201-R.pdf)
-- [The Zynq Book Tutorials]({{ site.baseurl }}/ece3623/The_Zynq_Book_Tutorials.pdf)
+- [Embedded System Introduction]({{ site.baseurl }}/docs/pdfs/Embedded_System.pdf)
+- [Week 1 Slides]({{ site.baseurl }}/docs/pdfs/Week%201.pdf)
+- [Week 1 Recap]({{ site.baseurl }}/docs/pdfs/Week%201-R.pdf)
+- [The Zynq Book Tutorials]({{ site.baseurl }}/docs/pdfs/The_Zynq_Book_Tutorials.pdf)
 
 ---
 

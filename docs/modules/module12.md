@@ -382,9 +382,9 @@ void vFilterTask(void *pvParameters) {
 
 ## Lecture Materials
 
-- [Week 12 Slides - Digital Filtering]({{ site.baseurl }}/ece3623/Week%2012%20Filtering.pdf)
-- [FIR and IIR Filter Design]({{ site.baseurl }}/ece3623/Filter%20Design.pdf)
-- [Z-Transform Review]({{ site.baseurl }}/ece3623/Z-Transform.pdf)
+- [Week 12 Slides - Digital Filtering]({{ site.baseurl }}/docs/pdfs/Week%2012%20Filtering.pdf)
+- [FIR and IIR Filter Design]({{ site.baseurl }}/docs/pdfs/Filter%20Design.pdf)
+- [Z-Transform Review]({{ site.baseurl }}/docs/pdfs/Z-Transform.pdf)
 
 ---
 
@@ -704,14 +704,14 @@ In this lab, you will:
 3. Compare filtered vs unfiltered signals
 4. Use fixed-point arithmetic for efficiency
 
-**Lab Materials**: [Lab 7 - Digital Filters]({{ site.baseurl }}/ece3623/LAB%207%20Digital%20Filters.pdf)
+**Lab Materials**: [Lab 7 - Digital Filters]({{ site.baseurl }}/docs/pdfs/LAB%207%20Digital%20Filters.pdf)
 
 ---
 
 ## Lecture Materials
 
-- [Week 9 - Filtering]({{ site.baseurl }}/ece3623/Week%209-T%20Filtering.pdf)
-- [Fixed Point Arithmetic Supplement]({{ site.baseurl }}/ece3623/Fixed%20Point%20Arithmetic%20-%20Supplement-6.pdf)
+- [Week 9 - Filtering]({{ site.baseurl }}/docs/pdfs/Week%209-T%20Filtering.pdf)
+- [Fixed Point Arithmetic Supplement]({{ site.baseurl }}/docs/pdfs/Fixed%20Point%20Arithmetic%20-%20Supplement-6.pdf)
 
 ---
 

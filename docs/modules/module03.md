@@ -475,9 +475,9 @@ int main(void)
 
 ## Lecture Materials
 
-- [FreeRTOS Task Management]({{ site.baseurl }}/ece3623/FreeRTOS.pdf)
-- [Week 3 Slides]({{ site.baseurl }}/ece3623/Week%203.pdf)
-- [Week 3 Recap]({{ site.baseurl }}/ece3623/Week%203-R.pdf)
+- [FreeRTOS Task Management]({{ site.baseurl }}/docs/pdfs/FreeRTOS.pdf)
+- [Week 3 Slides]({{ site.baseurl }}/docs/pdfs/Week%203.pdf)
+- [Week 3 Recap]({{ site.baseurl }}/docs/pdfs/Week%203-R.pdf)
 
 ---
 

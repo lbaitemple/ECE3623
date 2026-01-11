@@ -485,9 +485,9 @@ uint16_t PmodAD1_ReadValidated(uint8_t channel) {
 
 ## Lecture Materials
 
-- [Week 9 Slides]({{ site.baseurl }}/ece3623/Week%209.pdf)
-- [SPI Protocol Reference]({{ site.baseurl }}/ece3623/SPI.pdf)
-- [ADC Fundamentals]({{ site.baseurl }}/ece3623/ADC.pdf)
+- [Week 9 Slides]({{ site.baseurl }}/docs/pdfs/Week%209.pdf)
+- [SPI Protocol Reference]({{ site.baseurl }}/docs/pdfs/SPI.pdf)
+- [ADC Fundamentals]({{ site.baseurl }}/docs/pdfs/ADC.pdf)
 
 ---
 
